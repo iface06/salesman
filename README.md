@@ -1,2 +1,2 @@
 # salesman
-evolutionary algorithm for the Travelling Salesman Problem
+Evolutionary algorithm for the Travelling Salesman Problem.
